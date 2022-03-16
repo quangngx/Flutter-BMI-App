@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bmi_final/src/Screen/results_page.dart';
+import 'package:flutter_bmi_final/src/Screen/result_page.dart';
 import 'package:flutter_bmi_final/src/calc_brain.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import '../Components/bottom_button.dart';
