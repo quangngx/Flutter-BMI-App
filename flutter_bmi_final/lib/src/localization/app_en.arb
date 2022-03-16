@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_bmi_final",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
